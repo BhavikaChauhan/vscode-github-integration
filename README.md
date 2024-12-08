@@ -48,20 +48,17 @@ GitLens – Git Supercharged
 
 5. Test the Integration
 Make a change to README.md:
-## Purpose  
-This project demonstrates how to integrate GitHub with VS Code.
-
-In VS Code:
-Go to the Source Control tab.
-Stage the changes, commit them, and push to GitHub.
 
 6. Verify and Share the Repository
 Go to your GitHub repository to confirm the changes.
 Share the repository link with others to showcase your work.
 
+#Purpose  
+This project demonstrates how to integrate GitHub with VS Code.
 
-Project Demo
-Include screenshots or GIFs demonstrating:
+In VS Code:
+Go to the Source Control tab.
+Stage the changes, commit them, and push to GitHub.
 
 Initializing a Git repository.
 Linking the repository to GitHub.
