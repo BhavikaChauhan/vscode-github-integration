@@ -18,7 +18,7 @@ GitHub Pull Requests and Issues
 GitLens – Git Supercharged
 
 
-Steps to Reproduce
+Steps to Replicate 
 1. Initialize a Local Repository
 Open Git Bash and navigate to your desired directory:
 cd ~/Desktop
