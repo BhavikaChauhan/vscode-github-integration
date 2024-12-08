@@ -1,1 +1,2 @@
-#GitHub and VS Code Integration Project
+## Purpose  
+This project demonstrates how to integrate GitHub with VS Code.
